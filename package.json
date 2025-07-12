@@ -1,0 +1,28 @@
+{
+  "name": "@balasaravanan/cursor-follower",
+  "version": "1.0.3",
+  "description": "A minimal cursor follower design that replaces the traditional cursor to make your website stand out.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bala Saravanan",
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "src/"
+  ],
+  "peerDependencies": {
+    "react": ">=18.0.0 <20.0.0",
+    "react-dom": ">=18.0.0 <20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bala-Saravanan/cursor-follower.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bala-Saravanan/cursor-follower/issues"
+  },
+  "homepage": "https://github.com/Bala-Saravanan/cursor-follower#readme"
+}
