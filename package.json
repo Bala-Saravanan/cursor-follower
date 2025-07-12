@@ -1,6 +1,6 @@
 {
   "name": "@balasaravanan/cursor-follower",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A minimal cursor follower design that replaces the traditional cursor to make your website stand out.",
   "main": "index.js",
   "type": "module",
